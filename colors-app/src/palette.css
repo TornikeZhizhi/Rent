@@ -6,3 +6,17 @@
 .Palette-colors {
   height: 90%;
 }
+
+.slider {
+  width: 340px;
+  margin: 20px 10px;
+}
+
+.Navbar {
+  display: flex;
+  height: 6vh;
+}
+
+.logo {
+  margin-right: 10px;
+}
