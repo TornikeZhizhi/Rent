@@ -9,7 +9,7 @@
 
 .slider {
   width: 340px;
-  margin: 20px 10px;
+  margin: 5px 10px;
 }
 
 .Navbar {
@@ -19,4 +19,7 @@
 
 .logo {
   margin-right: 10px;
+}
+.slider_container {
+  display: flex;
 }
